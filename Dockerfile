@@ -1,0 +1,4 @@
+FROM 
+MAINTAINER 
+
+ENV SERVICE_NAME service-queue-go
