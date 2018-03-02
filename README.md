@@ -4,7 +4,7 @@ Production Service Deployment Queue
 
 
 [![Build Status]
-
+[![CircleCI](https://circleci.com/gh/vishbin/cicd-service-queue-go/tree/master.svg?style=svg)](https://circleci.com/gh/vishbin/cicd-service-queue-go/tree/master)
 
 
 Run `make container` to build the container image.  It will calculate the image
