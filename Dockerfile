@@ -14,7 +14,7 @@
 
 FROM ARG_FROM
 
-MAINTAINER vishbin
+MAINTAINER vishbin@github.com
 
 ADD bin/ARG_ARCH/ARG_BIN /ARG_BIN
 
