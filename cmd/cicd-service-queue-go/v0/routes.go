@@ -29,5 +29,10 @@ var routes = Routes{
 		"GET",
 		"/todos/{todoId}",
 		TodoShow,
+	},Route{
+		"RegisterService",
+		"POST",
+		"/services/{serviceId}",
+		TodoShow,
 	},
 }
